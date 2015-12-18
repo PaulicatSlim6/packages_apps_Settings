@@ -251,4 +251,10 @@
   <string name="network_traffic_autohide_summary">Oculta el monitor tráfico cuando no hay actividad</string>
   <string name="network_traffic_autohide_threshold">Umbral de inactividad</string>
 
+  <!-- Linked / unlinked notification volume -->
+  <string name="link_volume_option_title">Vinvular volumen de notificaciones y del teléfono</string>
+  <string name="notification_volume_option_title">Volumen de notificaciones</string>
+  <string name="ring_notification_volume_option_title">Volumen de notificaciones y teléfono</string>
+
+
 </resources>
