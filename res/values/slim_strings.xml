@@ -322,4 +322,8 @@
     <string name="add">Add</string>
     <string name="choose_app">Choose application</string>
 
+    <!-- Lockscreen charging current indicator  -->
+    <string name="lockscreen_charging_current_title">Lockscreen charging current</string>
+    <string name="lockscreen_charging_current_summary">Display negociated charger max current on lockscreen</string>
+
 </resources>
