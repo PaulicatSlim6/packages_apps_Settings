@@ -330,4 +330,8 @@
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
    <string name="unlock_quick_unlock_control_summary">Automatically unlock as soon as the correct PIN/password has been entered (pressing OK not required)\nNote: will only work for 4 digit PIN/Password !</string>
 
+    <!-- Reorient volume rockers with screen rotation -->
+    <string name="swap_volume_buttons_title">Reorient volume rockers</string>
+    <string name="swap_volume_buttons_summary">Swap volume buttons logically according to screen rotation</string>
+
 </resources>
