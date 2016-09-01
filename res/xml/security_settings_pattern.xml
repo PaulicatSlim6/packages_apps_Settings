@@ -45,7 +45,7 @@
             android:key="power_button_instantly_locks"
             android:title="@string/lockpattern_settings_enable_power_button_instantly_locks"/>
 
-        <com.android.settings.slim.SystemSettingSwitchPreference
+        <com.android.settings.preference.SystemSettingSwitchPreference
             android:key="lockscreen_charging_current"
             android:title="@string/lockscreen_charging_current_title"
             android:summary="@string/lockscreen_charging_current_summary"
