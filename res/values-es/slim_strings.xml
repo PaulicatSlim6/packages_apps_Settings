@@ -228,4 +228,27 @@
   <string name="swap_volume_buttons_title">Reorientar teclas de volumen</string>
   <string name="swap_volume_buttons_summary">Intercambiar botones de volumen en consonancia con la rotación de la pantalla</string>
 
+  <!-- Status bar - Network traffic -->
+  <string name="network_traffic_options_title">Opciones de tráfico de red</string>
+
+  <!-- Network traffic -->
+  <string name="network_traffic_title">Tráfico de red</string>
+  <string name="show_network_traffic_state">Monitor de tráfico en la barra de estado</string>
+  <string name="network_traffic_summary">Habilitar varias opciones de tráfico de red en la barra de estado</string>
+  <string name="show_network_traffic_unit">Mostrar unidades</string>
+  <string name="show_network_traffic_frequency">Intervalo de actualización</string>
+  <string name="show_network_traffic_disable">Deshabilitado</string>
+  <string name="show_network_traffic_up">Saliente</string>
+  <string name="show_network_traffic_down">Entrante</string>
+  <string name="show_network_traffic_all">Entrante y saliente</string>
+  <string name="show_network_traffic_bit">Bits por segundo</string>
+  <string name="show_network_traffic_byte">Bytes por segundo</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
+  <string name="network_traffic_autohide">Ocultar automáticamente</string>
+  <string name="network_traffic_autohide_summary">Oculta el monitor tráfico cuando no hay actividad</string>
+  <string name="network_traffic_autohide_threshold">Umbral de inactividad</string>
+
 </resources>
