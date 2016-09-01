@@ -181,4 +181,51 @@
   <string name="advanced_reboot_disabled">Deshabilitado</string>
   <string name="advanced_reboot_hide_on_keyguard">Ocultar en la pantalla de bloqueo</string>
   <string name="advanced_reboot_show_always">Mostrar siempre</string>
+
+  <!-- Notification/Battery lights -->
+  <string name="edit_light_settings">Editar ajustes de led</string>
+  <string name="pulse_speed_title">Duración y velocidad del parpadeo</string>
+  <string name="default_time">Normal</string>
+  <string name="custom_time">Personalizado</string>
+  <string name="dialog_delete_title">Eliminar</string>
+  <string name="dialog_delete_message">Eliminar elemento seleccionado?</string>
+  <string name="pulse_length_always_on">Siempre encendido</string>
+  <string name="pulse_length_very_short">Muy corto</string>
+  <string name="pulse_length_short">Corto</string>
+  <string name="pulse_length_normal">Normal</string>
+  <string name="pulse_length_long">Largo</string>
+  <string name="pulse_length_very_long">Muy largo</string>
+  <string name="pulse_speed_very_fast">Muy rápido</string>
+  <string name="pulse_speed_fast">Rápido</string>
+  <string name="pulse_speed_normal">Normal</string>
+  <string name="pulse_speed_slow">Lento</string>
+  <string name="pulse_speed_very_slow">Muy lento</string>
+  <string name="battery_light_title">Led de batería</string>
+  <string name="battery_low_pulse_title">Parpadear con batería baja</string>
+  <string name="battery_light_list_title">Colores</string>
+  <string name="battery_light_low_color_title">Batería baja</string>
+  <string name="battery_light_medium_color_title">Cargando - lento o normal</string>
+  <string name="battery_light_medium_fast_color_title">Cargando - rápido</string>
+  <string name="battery_light_full_color_title">Carga completa</string>
+  <string name="notification_light_title">Led de notificación</string>
+  <string name="notification_light_general_title">General</string>
+  <string name="notification_light_applist_title">Aplicaciones</string>
+  <string name="notification_light_phonelist_title">Teléfono</string>
+  <string name="notification_light_use_custom">Usar valores personalizados</string>
+  <string name="notification_light_default_value">Predeterminado</string>
+  <string name="notification_light_missed_call_title">Llamada perdida</string>
+  <string name="notification_light_voicemail_title">Buzón de voz</string>
+
+  <!--Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
+  <string name="unlock_quick_unlock_control_summary">Desbloquear automáticamente cuando se introduce correctamente el PIN/contraseña (no será necesario pulsar Ok)\nNota: sólo funciona si el PIN/contraseña tiene 4 caracteres!</string>
+
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">Evitar encendido accidental</string>
+  <string name="proximity_wake_summary">Comprobar el sensor de proximidad antes de encender la pantalla</string>
+
+  <!-- Reorient volume rockers with screen rotation -->
+  <string name="swap_volume_buttons_title">Reorientar teclas de volumen</string>
+  <string name="swap_volume_buttons_summary">Intercambiar botones de volumen en consonancia con la rotación de la pantalla</string>
+
 </resources>
