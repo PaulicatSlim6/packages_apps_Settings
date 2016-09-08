@@ -256,5 +256,25 @@
   <string name="notification_volume_option_title">Volumen de notificaciones</string>
   <string name="ring_notification_volume_option_title">Volumen de notificaciones y teléfono</string>
 
+  <!-- Keyboard and Input ASS methods  -->
+  <string name="title_keyboard_input">Opciones avanzadas</string>
+  <string name="disable_fullscreen_keyboard_title">Desactivar el teclado en pantalla completa</string>
+  <string name="disable_fullscreen_keyboard_summary">En modo apaisado, el teclado no ocupará toda la pantalla</string>
+  <string name="volume_key_cursor_control_title">Controlar el cursor con las teclas de volumen</string>
+  <string name="volume_key_cursor_control_on">Mover el cursor izquierda/derecha con las teclas de volumen</string>
+  <string name="volume_key_cursor_control_on_reverse">Mover el cursor izquierda/derecha con las teclas de volumen</string>
+  <string name="keyboard_rotation_toggle_title">Rotación automática del teclado</string>
+  <string name="keyboard_rotation_toggle_summary">Forzar la rotación automática del teclado al mostrarlo</string>
+  <string name="keyboard_rotation_timeout_title">Tiempo de espera de la rotación automática</string>
+  <string name="keyboard_rotation_timeout_summary">Desactivar el sensor de rotación automática <xliff:g id="rotate_timeout">%1$s</xliff:g> segundos después de que se oculte el teclado</string>
+  <string name="keyboard_rotation_dialog">Esta característica fuerza la rotación automática temporalmente mientras el teclado se muestra. No tiene efecto cuando la rotación automática ya está habilitada.</string>
+  <string name="show_enter_key_title">Mostrar la tecla Intro</string>
+  <string name="show_enter_key_summary">Mostrar la tecla Intro en lugar de la tecla de emoticonos</string>
+  <string name="ime_switcher_notify">Notificación del método de entrada</string>
+  <string name="ime_switcher_notify_summary">Mostrar una notificación de la selección del método de entrada</string>
+
+  <!-- Show su statusbar icon -->
+  <string name="show_su_statusbar_icon_title">Icono de SU en la bara de estado</string>
+  <string name="show_su_statusbar_icon_summary">Mostrar el icono SU # en la barra de estado cuando una sesión de root este activa</string>
 
 </resources>
