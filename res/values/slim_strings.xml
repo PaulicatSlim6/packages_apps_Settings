@@ -365,5 +365,9 @@
     <!-- Show su statusbar icon -->
     <string name="show_su_statusbar_icon_title">SU statusbar icon</string>
     <string name="show_su_statusbar_icon_summary">Show a SU # icon in statusbar whenever a root session is active</string>
+
+    <!-- Skip tracks on longpress volume buttons -->
+    <string name="volbtn_music_controls_title">Volume rocker music controls</string>
+    <string name="volbtn_music_controls_summary">When screen off, long-pressing the volume rockers will skip music tracks</string>
  
 </resources>
