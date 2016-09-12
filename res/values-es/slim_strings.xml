@@ -278,7 +278,15 @@
   <string name="show_su_statusbar_icon_summary">Mostrar el icono SU # en la barra de estado cuando una sesión de root este activa</string>
 
   <!-- Skip tracks on longpress volume buttons -->
-    <string name="volbtn_music_controls_title">Control de música con botones de volumen</string>
-    <string name="volbtn_music_controls_summary">Pulsando de forma prolongada los botones de volumen se saltará entre canciones cuando la pantalla esté apagada</string>
+  <string name="volbtn_music_controls_title">Control de música con botones de volumen</string>
+  <string name="volbtn_music_controls_summary">Pulsando de forma prolongada los botones de volumen se saltará entre canciones cuando la pantalla esté apagada</string>
+
+  <!-- Lockscreen charging current indicator  -->
+  <string name="lockscreen_charging_current_title">Mostrar carga en la pantalla de bloqueo</string>
+  <string name="lockscreen_charging_current_summary">Mostrar el máximo de carga negociada en la pantalla de bloqueo</string>
+
+  <!-- Privacy guard enable switch -->
+  <string name="privacy_guard_enable_title">Habliltar Protección de Privacidad</string>
+  <string name="privacy_guard_enable_summary">Mostrar Protección de Privacidad en la opciones de seguridad.</string>
 
 </resources>
