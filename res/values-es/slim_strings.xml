@@ -286,7 +286,7 @@
   <string name="lockscreen_charging_current_summary">Mostrar el máximo de carga negociada en la pantalla de bloqueo</string>
 
   <!-- Privacy guard enable switch -->
-  <string name="privacy_guard_enable_title">Habliltar Protección de Privacidad</string>
+  <string name="privacy_guard_enable_title">Habilitar Protección de Privacidad</string>
   <string name="privacy_guard_enable_summary">Mostrar Protección de Privacidad en la opciones de seguridad.</string>
 
 </resources>
