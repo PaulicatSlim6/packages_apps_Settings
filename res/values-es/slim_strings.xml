@@ -287,6 +287,10 @@
 
   <!-- Privacy guard enable switch -->
   <string name="privacy_guard_enable_title">Habilitar Protección de Privacidad</string>
-  <string name="privacy_guard_enable_summary">Mostrar Protección de Privacidad en la opciones de seguridad.</string>
+  <string name="privacy_guard_enable_summary">Mostrar Protección de Privacidad en las opciones de seguridad.</string>
+
+   <!-- Volume rocker wake -->
+   <string name="volbtn_wake_device_title">Despertar con los botones de volumen</string>
+   <string name="volbtn_wake_device_summary">Despertar el dispositivo al pulsar cualquier tecla de volumen\nPuede que no funcione mientras reprouce música si tiene activado el control de música con los botones de volumen</string>
 
 </resources>
