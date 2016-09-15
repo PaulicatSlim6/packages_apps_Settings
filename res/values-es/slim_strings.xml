@@ -179,7 +179,6 @@
   <string name="advanced_reboot_title">Reinicio avanzado</string>
   <string name="advanced_reboot_dialog_title">Menú de reinicio avanzado</string>
   <string name="advanced_reboot_disabled">Deshabilitado</string>
-  <string name="advanced_reboot_hide_on_keyguard">Ocultar en la pantalla de bloqueo</string>
   <string name="advanced_reboot_show_always">Mostrar siempre</string>
 
   <!-- Notification/Battery lights -->
@@ -293,4 +292,6 @@
    <string name="volbtn_wake_device_title">Despertar con los botones de volumen</string>
    <string name="volbtn_wake_device_summary">Despertar el dispositivo al pulsar cualquier tecla de volumen\nPuede que no funcione mientras reprouce música si tiene activado el control de música con los botones de volumen</string>
 
+  <!-- Show superuser settings -->
+  <!-- Privacy guard enable switch -->
 </resources>
